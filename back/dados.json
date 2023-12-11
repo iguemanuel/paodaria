@@ -1,0 +1,13 @@
+[
+  {
+    "nome": "Igor",
+    "email": "igor16emanuel@gmail.com",
+    "senha": "123",
+    "cep": "85010020",
+    "endereco": "Rua Padre Chagas",
+    "numero": "123",
+    "bairro": "Centro",
+    "cidade": "Guarapuava",
+    "estado": "PR"
+  }
+]
