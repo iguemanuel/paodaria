@@ -1,4 +1,4 @@
-<h1 align="center"> Seu título aquiRA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos. </h1>
+<h1 align="center"> RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos. </h1>
  ID 01 - Implementa um layout responsivo de uma página web utilizando um Framework CSS, como Bootstrap ou Tailwind, que se adapta adequadamente a diferentes tamanhos de tela e dispositivos.
  ID 02 - Utiliza técnicas avançadas de CSS, como Flexbox ou Grid Layout, para criar layouts responsivos e fluidos em diferentes resoluções de tela.
  ID 03 - Utiliza os componentes CSS e JavaScript oferecidos por um Framework CSS, como cards, modais ou carrosséis, aplicando estilos personalizados conforme o necessário.
